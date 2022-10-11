@@ -1,1 +1,1 @@
-Hello World!
+This repo is for my talk on my model training workflow / visualizations I use.
